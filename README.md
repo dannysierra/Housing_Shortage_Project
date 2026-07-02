@@ -193,6 +193,6 @@ If using this code or its outputs, please cite:
 
 > Sierra, D. (2025). *Housing Shortage Analysis Using the K&S Methodology*. DeVoe L. Moore Center, Florida State University.
 
-And cite the underlying data:
+Cite the underlying data:
 
 > Schroeder, J., Van Riper, D., Manson, S., Knowles, K., Kugler, T., Roberts, F., and Ruggles, S. IPUMS National Historical Geographic Information System: Version 20.0 [dataset]. Minneapolis, MN: IPUMS, 2025. http://doi.org/10.18128/D050.V20.0
