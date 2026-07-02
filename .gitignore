@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Do not ignore the directory structure itself
+!*/
+
+# Explicitly allow your files and everything inside the R folder
+!.gitignore
+!*.Rproj
+!R_Code/
+!R_Code/**
+.Rproj.user
