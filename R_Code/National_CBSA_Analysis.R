@@ -40,7 +40,7 @@ out_dir <- "/Users/danielsierra/Library/CloudStorage/OneDrive-FloridaStateUniver
 # Set to TRUE to include line charts in the per-CBSA Excel sheets.
 # FALSE produces the same tables without charts — much faster.
 # With ~380 MSAs + ~540 Micros, plots add roughly 30-45 minutes.
-INCLUDE_PLOTS <- FALSE
+INCLUDE_PLOTS <- TRUE
 
 # ─────────────────────────────────────────────────────────────────
 
